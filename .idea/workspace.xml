@@ -136,16 +136,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fontawesome-less.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/fontawesome-less.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="fontawesome.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/fontawesome.less">
           <provider selected="true" editor-type-id="text-editor">
@@ -349,12 +339,12 @@
       <workItem from="1506389171485" duration="5412000" />
       <workItem from="1506421441263" duration="1404000" />
       <workItem from="1508312036159" duration="4222000" />
-      <workItem from="1508316568067" duration="1871000" />
+      <workItem from="1508316568067" duration="2034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13691000" />
+    <option name="totallyTimeSpent" value="13854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-5" width="1366" height="773" extended-state="6" />
