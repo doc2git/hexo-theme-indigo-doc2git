@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8c31a70-2b5d-4d25-a6b2-6640eee6ec59" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/FontAwesome.otf" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Bold.eot" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Bold.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Bold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Bold.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Bold.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Light.eot" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Light.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Light.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Light.woff" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Light.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Light.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Medium.eot" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Medium.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Medium.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Medium.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Medium.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Regular.eot" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Thin.eot" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Thin.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Thin.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Thin.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/roboto/Roboto-Thin.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/alipay.jpg" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/alipay.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/avatar.jpg" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/avatar.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/brand.jpg" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/brand.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/cc.png" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/cc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/img-err.png" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/img-err.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/img-loading.png" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/img-loading.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/wechat.jpg" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/img/wechat.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/.editorconfig" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/.editorconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/LICENSE" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/README.md" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/_config.yml" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/languages/en.yml" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/languages/en.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/languages/zh-CN.yml" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/languages/zh-CN.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/languages/zh-TW.yml" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/languages/zh-TW.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/after-footer.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/after-footer.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/archive.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/archive.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/footer.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/footer.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/head.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/head.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/header.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/header.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/index-item.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/index-item.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/loading.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/loading.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/menu.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/menu.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/paginator.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/paginator.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/baidu.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/baidu.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/disqus.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/disqus.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/dynamic-title.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/dynamic-title.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/google-analytics.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/google-analytics.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/mathjax.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/mathjax.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/page-visit.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/page-visit.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/site-visit.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/site-visit.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/tajs.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/tajs.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/uyan.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/plugins/uyan.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/category.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/category.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/comment.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/comment.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/copyright.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/copyright.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/date.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/date.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/head-meta.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/head-meta.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/nav.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/nav.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/reward-btn.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/reward-btn.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/reward.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/reward.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/share-fab.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/share-fab.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/share.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/share.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/tag.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/tag.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/title.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/title.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/toc.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/toc.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/updated.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/post/updated.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/script.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/script.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/search.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/search.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/tags-bar.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/_partial/tags-bar.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/archive.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/archive.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/categories.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/categories.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/category.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/category.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/index.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/index.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/layout.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/layout.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/page.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/page.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/post.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/post.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/tag.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/tag.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/tags.ejs" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/layout/tags.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/package.json" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/scripts/plugins.js" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/scripts/plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/archives.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/archives.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/article.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/article.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/fontawesome.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/fontawesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/gotop.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/gotop.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/header.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/header.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/highlight.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/highlight.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/layout.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/layout.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/lightbox.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/lightbox.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/loading.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/loading.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/page.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/page.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/postlist.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/postlist.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/reward.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/reward.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/roboto.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/roboto.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/search.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/search.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/share.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/share.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/tags.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/tags.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/variable.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/variable.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/waves.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/_partial/waves.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/fonts/fontawesome/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/style.less" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/css/style.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/js/main.js" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/js/main.min.js" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/js/main.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/js/search.js" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/js/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/js/search.min.js" afterPath="$PROJECT_DIR$/themes/hexo-theme-indigo/source/js/search.min.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1288">
+              <caret line="92" column="16" lean-forward="false" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-js.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/test-js.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/tags/font-icon/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/tags/font-family/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-js-2.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/test-js-2.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/tags/index.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/hexo-theme-indigo" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/source/tags/index.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/source/_posts/test-js-2.md" />
+        <option value="$PROJECT_DIR$/source/_posts/test-js.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/themes/hexo-theme-indigo/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="y" value="18" />
+    <option name="width" value="683" />
+    <option name="height" value="750" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hexo-indigo-notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo-indigo-notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8c31a70-2b5d-4d25-a6b2-6640eee6ec59" name="Default" comment="" />
+      <created>1506334881876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506334881876</updated>
+      <workItem from="1506334883088" duration="782000" />
+      <workItem from="1506389171485" duration="5412000" />
+      <workItem from="1506421441263" duration="1404000" />
+      <workItem from="1508312036159" duration="1406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9004000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="18" width="683" height="750" extended-state="4" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5589124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.86550635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="92" column="16" lean-forward="true" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/test-js-2.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/tags/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/test-js.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="92" column="17" lean-forward="false" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/test-js-2.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/tags/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/test-js.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/tags/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/tags/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/test-js-2.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/test-js.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/tags/font-icon/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/tags/font-family/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="92" column="16" lean-forward="false" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
