@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: icccc.cc   -   doc2git.com
+title: icccc.cc   -   周瑜.com
 subtitle:
 description:
 author: doc2git
@@ -89,13 +89,17 @@ deploy:
 #    ignore_errors: false # Default is false
 #    password: a
 #
-- type: git
-  repo: git@gitee.com:doc2git/doc2git.git
-  branch: master
-- type: git
-  repo: git@git.coding.net:doc2git/doc2git.coding.me.git
-  branch: master
-- type: git
-  repo: git@github.com:doc2git/doc2git.github.io.git
-  branch: master
+ - type: rsync
+   host: icccc.cc
+   user: root
+   root: /var/www/html/hexo-indigo-blog-public
+ - type: git
+   repo: git@gitee.com:ivuex/ivuex.git
+   branch: master
+ - type: git
+   repo: git@github.com:ivuex/ivuex.github.io.git
+   branch: master
+# - type: git
+#   repo: git@git.coding.net:ivuex/ivuex.coding.me.git
+#   branch: master
 
